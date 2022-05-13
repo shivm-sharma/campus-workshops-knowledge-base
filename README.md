@@ -1,7 +1,7 @@
 # campus-workshops-knowledge-base
 
-Knowledge Base for Campus Workshops
-reva university
+1. Knowledge Base for Campus Workshops
+reva university, SS
 
 # What we'll be doing today?
 
